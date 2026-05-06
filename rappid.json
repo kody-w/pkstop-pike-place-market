@@ -1,0 +1,16 @@
+{
+  "schema": "rapp-rappid/1.1",
+  "rappid": "5729423d-a8af-4602-becb-23aa0e8e84fe",
+  "kind": "place",
+  "name": "pkstop-pike-place-market",
+  "display_name": "Pike Place Market",
+  "github": "https://github.com/kody-w/pkstop-pike-place-market",
+  "url": "https://kody-w.github.io/pkstop-pike-place-market",
+  "parent_rappid": "0b635450-c042-49fb-b4b1-bdb571044dec",
+  "parent_repo": "https://github.com/kody-w/rapp-installer",
+  "planted_by": "kody-w",
+  "planted_at": "2026-05-06T01:02:57Z",
+  "planted_from": null,
+  "kernel_version": "0.6.0",
+  "location": "Seattle, Washington"
+}
