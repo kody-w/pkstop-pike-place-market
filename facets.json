@@ -1,0 +1,6 @@
+{
+  "schema": "rapp-facets/1.0",
+  "rappid": "rappid:v2:neighborhood:@kody-w/pkstop-pike-place-market:6064ded7949da51eda107e6aee8833a7@github.com/kody-w/pkstop-pike-place-market",
+  "facets": {},
+  "_note": "Declare published capabilities here over time. See specs/SPEC.md \u00a73."
+}
