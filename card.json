@@ -52,7 +52,7 @@
     "quality_tier": "community",
     "license": "PolyForm-Small-Business",
     "kind": "neighborhood",
-    "rappid": "rappid:v2:neighborhood:@kody-w/pkstop-pike-place-market:6064ded7949da51eda107e6aee8833a7@github.com/kody-w/pkstop-pike-place-market",
+    "rappid": "rappid:@kody-w/pkstop-pike-place-market:f6ebb932a36dbaf94dfac37fdf60b462dbea5961b75221937f72ced165923b8d",
     "gate_url": "https://kody-w.github.io/pkstop-pike-place-market/",
     "summon_url": "https://kody-w.github.io/RAPPcards/#summon&seed=5529491384724733933",
     "_compliance": "rappcards/1.1.2 \u2014 kody-w/RAPPcards/SPEC.md"
